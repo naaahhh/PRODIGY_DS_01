@@ -1,6 +1,5 @@
 # PRODIGY_DS_01
 
-### Author: naaahhh
 
 ## Project Overview
 
